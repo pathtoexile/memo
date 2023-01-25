@@ -24,3 +24,5 @@ pizza party
 
 <img src="https://i.imgur.com/Ex6M94Z.png" width="280px">
 
+fetch test
+![](/ares/mae/cp.bronze.png)
