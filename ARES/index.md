@@ -1,1 +1,0 @@
-All Resource External Source
