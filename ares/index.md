@@ -1,0 +1,1 @@
+altered resources external script 
