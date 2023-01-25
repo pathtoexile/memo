@@ -25,6 +25,6 @@ pizza party
 <img src="https://i.imgur.com/Ex6M94Z.png" width="280px">
 
 fetch test
-<img src="/ares/mae/cp.bronze.jpg">
+<img src="/ares/mae/cp.bronze.png">
 
-![](/ares/mae/cp.bronze.png)
+![text](../ares/mae/cp.bronze.png)
