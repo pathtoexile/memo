@@ -27,4 +27,4 @@ pizza party
 fetch test
 <img src="/ares/mae/cp.bronze.png">
 
-![text](../ares/mae/cp.bronze.png)
+![text](/ares/mae/cp.bronze.png)
