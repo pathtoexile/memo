@@ -1,1 +1,2 @@
 altered resources external script 
+.
